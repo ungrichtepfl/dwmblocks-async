@@ -5,7 +5,7 @@
 #define DELIMITER ""
 
 // Maximum number of Unicode characters that a block can output.
-#define MAX_BLOCK_OUTPUT_LENGTH 100
+#define MAX_BLOCK_OUTPUT_LENGTH 255
 
 // Control whether blocks are clickable.
 #define CLICKABLE_BLOCKS 1
