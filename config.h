@@ -20,14 +20,14 @@
 // Stolen from https://github.com/UtkarshVerma/dotfiles/tree/main/.local/bin/statusbar
 #define BLOCKS(X)                 \
     X("", "sb-music",     0,  11) \
-    X("", "sb-network",   4,  10) \
-    X("", "sb-disk",      3,   8) \
+    X("", "sb-network",   5,  10) \
+    X("", "sb-disk",     15,   8) \
     X("", "sb-memory",    2,   7) \
-    X("", "sb-loadavg",   2,   6) \
+    X("", "sb-loadavg",   3,   6) \
     X("", "sb-mic",       0,   5) \
     X("", "sb-record",    0,   4) \
     X("", "sb-volume",    0,   3) \
-    X("", "sb-battery",   5,   2) \
+    X("", "sb-battery",  10,   2) \
     X("", "sb-date",      1,   1)
 
 #endif  // CONFIG_H
