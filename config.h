@@ -28,6 +28,7 @@
     X("", "sb-record",    0,   4) \
     X("", "sb-volume",    0,   3) \
     X("", "sb-battery",  10,   2) \
+    X("", "sb-cal",     300,   9) \
     X("", "sb-date",      1,   1)
 
 #endif  // CONFIG_H
